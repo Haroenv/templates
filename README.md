@@ -2,7 +2,7 @@
 
 ##Table of Contents
 
-1. [a template for papers in LaTeX](paper)
+1. [a template for papers in LaTeX](paper), Dutch.
 
 ##License
 
