@@ -3,6 +3,7 @@
 ##Table of Contents
 
 1. [a template for papers in LaTeX](paper), Dutch.
+2. [a template for resumes without pages](no-pages), Dutch.
 
 ##License
 
