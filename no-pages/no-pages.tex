@@ -1,0 +1,58 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx}
+\usepackage[dutch]{babel}
+\usepackage{amsthm, amsmath, enumitem, fullpage, helvet, color}
+\usepackage[parfill]{parskip}
+\let\originalitem\item
+\renewcommand{\item}{\originalitem[]}
+\renewcommand*{\familydefault}{\sfdefault}
+\renewcommand{\d}{\textrm{d}\,}
+\usepackage{mathtools}
+
+
+\usepackage[active,tightpage]{preview}
+\renewcommand{\PreviewBorder}{1in}
+\newcommand{\Newpage}{\end{preview}\begin{preview}}
+
+\title{Title}
+\author{Author}
+\date{Date}
+
+
+\begin{document}
+\begin{preview}
+
+\selectlanguage{dutch} %%uncomment this for a different language
+
+\maketitle
+
+\Newpage
+
+\section{something}
+
+\begin{itemize}
+	\item item
+\end{itemize}
+
+\Newpage
+
+\section{Other section}
+
+\begin{itemize}
+	\item item
+	\begin{itemize}
+		\item subitem
+	\end{itemize}
+	\item 
+\end{itemize}
+
+\subsection{Subsection}
+
+\begin{itemize}
+	\item item
+\end{itemize}
+
+\Newpage
+
+\end{preview}
+\end{document}
