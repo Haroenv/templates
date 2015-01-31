@@ -16,3 +16,8 @@ desktop.ini
 *.synctex.gz
 *.fdb_latexmk
 *.dvi
+*.fls
+
+# Java generated files #
+########################
+*.class
