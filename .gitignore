@@ -15,3 +15,4 @@ desktop.ini
 *.log
 *.synctex.gz
 *.fdb_latexmk
+*.dvi
