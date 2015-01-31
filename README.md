@@ -2,8 +2,9 @@
 
 ##Table of Contents
 
-1. [a template for papers in LaTeX](paper), Dutch.
-2. [a template for resumes without pages](no-pages), Dutch.
+1. [a template for papers in LaTeX](paper), Dutch, LaTeX.
+2. [a template for summaries without pages](no-pages), Dutch, LaTeX.
+3. [a template for code highlighting for printing](code), Dutch, LaTeX, Java.
 
 ##License
 
